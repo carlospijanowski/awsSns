@@ -1,6 +1,6 @@
-package br.com.seteideias.awssns.service;
+package br.com.seteideias.awssqs.service;
 
-import br.com.seteideias.awssns.consumer.MyMessage;
+import br.com.seteideias.awssqs.consumer.MyMessage;
 import io.awspring.cloud.sqs.operations.SqsTemplate;
 import org.springframework.stereotype.Service;
 

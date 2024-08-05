@@ -1,4 +1,4 @@
-package br.com.seteideias.awssns.config;
+package br.com.seteideias.awssqs.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

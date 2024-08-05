@@ -1,10 +1,10 @@
-package br.com.seteideias.awssns;
+package br.com.seteideias.awssqs;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApplicationTests {
+class AwsSqsApplicationTests {
 
     @Test
     void contextLoads() {

@@ -1,4 +1,4 @@
-package br.com.seteideias.awssns.consumer;
+package br.com.seteideias.awssqs.consumer;
 
 import io.awspring.cloud.sqs.annotation.SqsListener;
 import org.springframework.stereotype.Component;
